@@ -1,0 +1,1 @@
+server_script 'webadmin.lua'
